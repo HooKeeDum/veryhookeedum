@@ -1,0 +1,21 @@
+{
+  "name": "darkxstory",
+  "main": "./lib/veryhookeedum",
+  "version": "0.0.0",
+  "description": "เรื่องเสียว อ่านเรื่องเสียว เล่าเรื่องเสียว เรื่องสยิว เรื่องเล่าเสียว",
+  "keywords": [
+    "เรื่องเสียว",
+    "เล่าเรื่องเสียว",
+    "อ่านเรื่องเสียว",
+    "เรื่องเล่าเสียว"
+  ],
+  "activationCommands": {
+    "atom-workspace": "veryhookeedum:toggle"
+  },
+  "repository": "https://github.com/HooKeeDum/veryhookeedum",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
